@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 shadowsocks
 ===========
 
@@ -104,3 +105,7 @@ Bugs and Issues
 [Troubleshooting]:   https://github.com/shadowsocks/shadowsocks/wiki/Troubleshooting
 [Wiki]:              https://github.com/shadowsocks/shadowsocks/wiki
 [Windows]:           https://github.com/shadowsocks/shadowsocks-csharp
+=======
+# shadowsocks-manager
+Cooperate with the back end of sspanel
+>>>>>>> 3002b8f561038b0627fc99fa5d20c87923044d8a
